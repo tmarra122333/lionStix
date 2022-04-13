@@ -5,5 +5,5 @@ const shop = () => {
     <div>shop</div>
   )
 }
-
+ 
 export default shop
